@@ -32,4 +32,4 @@ word = random.choice(words)
 attempts_left = 6
 guessed_letters = set()
 
-eel.start("index.html", size=(400, 300))
+eel.start("index.html", size=(720, 480))
