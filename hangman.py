@@ -4,7 +4,7 @@ import eel
 eel.init("web")
 
 # Слова для игры (можно добавить больше слов)
-words = ["apple", "banana", "cherry", "date", "elderberry"]
+words = ["apple", "banana", "cherry", "date", "elderberry","word","hellow"]
 
 @eel.expose
 def make_guess(guess):
