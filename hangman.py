@@ -6,7 +6,8 @@ eel.init("web")
 # Слова для игры (можно добавить больше слов)
 words = ["apple", "banana", "cherry", "date", "elderberry","word","hellow",
         "house", "history", "humen","drow", "picture", "knife", "work", "orange"
-         "tree", "samer", "glass", "day", "week", "game", "mask", "space"
+         "tree", "samer", "glass", "day", "week", "game", "mask", "space",
+         "passport"
         ]
 
 @eel.expose
